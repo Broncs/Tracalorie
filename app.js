@@ -270,6 +270,7 @@ const UICtrl = (function () {
         UISelectors.totalCalories
       ).textContent = totalCalories;
     },
+// it is reloading the page ....
     clearEditState: function () {
       UICtrl.clearInput();
       document.querySelector(UISelectors.updateBtn).style.display = "none";
