@@ -1,5 +1,5 @@
 # Tracalorie
-TracalorieApp
+TracalorieApp com vanilla Javascript
 
 Com esse app voce irá conseguir adicionar suas refeiçoes e calorias , 
 tendo mais controle sobre as suas calorias injeridas durante o dia;
