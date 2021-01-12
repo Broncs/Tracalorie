@@ -17,7 +17,7 @@ materialize css para a interface .
 <br>
 font-awesome para icons .
 
-  <a href="https://cocky-lalande-1b0c67.netlify.app">Live Demo </a>
+  <a href="https://tracalorie-app-v1.netlify.app/">Live Demo </a>
   
   ![tracalorie](https://user-images.githubusercontent.com/62390902/104089903-6c6f6380-5251-11eb-9455-5ea41f86aa5f.PNG)
 
